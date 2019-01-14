@@ -1,0 +1,76 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bhbikers.com" resolutions="1x,2x" timestamp="1480269305023">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="3898155997" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="483509463" ref="index"/>
+    <file name="webpro.js" crc="4078243563" ref="index"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="index"/>
+    <file name="touchswipe.js" crc="157639107" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4069228690" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="bg1.jpg" crc="4119269408" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="bg4.jpg" crc="267173599" seo="true" ref="index"/>
+    <file name="bg2.jpg" crc="240015627" seo="true" ref="index"/>
+    <file name="bg3.jpg" crc="3898112336" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="bhbikers-logo.png" crc="342744614" seo="true" ref="index"/>
+    <file name="concept-bike.jpg" crc="39544299" seo="true" ref="index"/>
+    <file name="u319-14.png" crc="117076250" ref="index"/>
+    <file name="u319-14_2x.png" crc="4228599976" ref="index"/>
+    <file name="u325-4.png" crc="4290755934" ref="index"/>
+    <file name="u325-4_2x.png" crc="26618" ref="index"/>
+    <file name="store.jpg" crc="3986243599" seo="true" ref="index"/>
+    <file name="u694-4.png" crc="4182246507" ref="index"/>
+    <file name="u694-4_2x.png" crc="3984541959" ref="index"/>
+    <file name="cruiser_bike2.jpg" crc="4229528797" seo="true" ref="index"/>
+    <file name="mountain-bike.jpg" crc="4286772658" seo="true" ref="index"/>
+    <file name="race-bike.jpg" crc="360699325" seo="true" ref="index"/>
+    <file name="u777-4.png" crc="3903069695" ref="index"/>
+    <file name="u777-4_2x.png" crc="3774276875" ref="index"/>
+    <file name="helmet.jpg" crc="160837432" seo="true" ref="index"/>
+    <file name="water-bottle-for-bike.jpg" crc="111039640" seo="true" ref="index"/>
+    <file name="sunglass.jpg" crc="3820749195" seo="true" ref="index"/>
+    <file name="cloth-both.png" crc="21457360" seo="true" ref="index"/>
+    <file name="light1.jpg" crc="390903560" seo="true" ref="index"/>
+    <file name="bike-emergency-tool-kit.jpg" crc="493700278" seo="true" ref="index"/>
+    <file name="helmet146x146.jpg" crc="4290128271" seo="true" ref="index"/>
+    <file name="helmet146x146_2x.jpg" crc="162137204" seo="true" ref="index"/>
+    <file name="water-bottle-for-bike146x146.jpg" crc="257056489" seo="true" ref="index"/>
+    <file name="water-bottle-for-bike146x146_2x.jpg" crc="3933933249" seo="true" ref="index"/>
+    <file name="sunglass-crop-u1504.jpg" crc="236365130" ref="index"/>
+    <file name="sunglass-crop-u1504_2x.jpg" crc="4206181807" ref="index"/>
+    <file name="cloth-both-crop-u1354.png" crc="3792962334" ref="index"/>
+    <file name="light1-crop-u1394.jpg" crc="4074029460" ref="index"/>
+    <file name="light1-crop-u1394_2x.jpg" crc="4126997317" ref="index"/>
+    <file name="bike-emergency-tool-kit146x146.jpg" crc="509352557" seo="true" ref="index"/>
+    <file name="bike-emergency-tool-kit146x146_2x.jpg" crc="38551085" seo="true" ref="index"/>
+    <file name="u1380-4.png" crc="3826852750" ref="index"/>
+    <file name="u1380-4_2x.png" crc="55153827" ref="index"/>
+    <file name="u1530-4.png" crc="128787787" ref="index"/>
+    <file name="u1530-4_2x.png" crc="4281850325" ref="index"/>
+    <file name="u1510-4.png" crc="4029174380" ref="index"/>
+    <file name="u1510-4_2x.png" crc="74412444" ref="index"/>
+    <file name="u1360-4.png" crc="444222207" ref="index"/>
+    <file name="u1360-4_2x.png" crc="4199003684" ref="index"/>
+    <file name="u1400-4.png" crc="4111372566" ref="index"/>
+    <file name="u1400-4_2x.png" crc="3838416546" ref="index"/>
+    <file name="u1550-4.png" crc="436588750" ref="index"/>
+    <file name="u1550-4_2x.png" crc="3855006774" ref="index"/>
+    <file name="u780-4.png" crc="4272036245" ref="index"/>
+    <file name="u780-4_2x.png" crc="3946664062" ref="index"/>
+    <file name="warning-sign-cycle-route-ahead.jpg" crc="131800004" seo="true" ref="index"/>
+    <file name="shoulder-road.jpg" crc="278352568" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3902881474" seo="true" mt="1480269282063" redirect="true"/>
+</manifest>
